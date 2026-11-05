@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/silver_thrush_5235), commi
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-05 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-05 |
 
 <!-- datadriven:index:end -->
